@@ -66,3 +66,22 @@ body {
     color: #fff;
     z-index: 1;
 }
+
+.container .card .content p {
+    font-size: 1em;
+    color: #fff;
+    font-weight: 300px;
+}
+
+.container .card .content a {
+    position: relative;
+    display: inline-block;
+    padding: 8px 20px;
+    margin-top: 15px;
+    background: #fff;
+    color: black;
+    text-decoration: none;
+    border-radius: 20px;
+    font-weight: 500px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
